@@ -15,15 +15,17 @@ const Projects = () => {
           background: "black",
         }}
       >
-        <h2 style={{ color: "white", margin: "0" }}>Projects</h2>
+        <h2 style={{ color: "papayaWhip", margin: "0" }}>Projects</h2>
       </header>
       <main
+      className="md:grid-cols-3"
         style={{
           width: "100%",
-          height: "90vh",
+          minHeight: "90vh",
           display: "grid",
           background: "black",
-          gridTemplateColumns: "1fr 1fr 1fr",
+          gridRowGap: "20px"
+         
         }}
       >
         <div
@@ -37,7 +39,7 @@ const Projects = () => {
             style={{
               height: "400px",
               width: "300px",
-              background: "white",
+              background: "papayaWhip",
               display: "flex",
               flexDirection: "column",
               alignItems: "center",
@@ -70,7 +72,7 @@ const Projects = () => {
             style={{
                 height: "400px",
                 width: "300px",
-                background: "white",
+                background: "papayaWhip",
                 display: "flex",
                 flexDirection: "column",
                 alignItems: "center",
@@ -102,7 +104,7 @@ const Projects = () => {
             style={{
                 height: "400px",
                 width: "300px",
-                background: "white",
+                background: "papayaWhip",
                 display: "flex",
                 flexDirection: "column",
                 alignItems: "center",
