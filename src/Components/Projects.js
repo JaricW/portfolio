@@ -30,8 +30,14 @@ const Projects = () => {
                   View
                 </a>
               </button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">About</button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">Code</button>
+              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
+                About
+              </button>
+              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
+                <a href="https://github.com/JaricW/The-Boulder" target="_blank">
+                  Code
+                </a>
+              </button>
             </div>
           </div>
         </div>
@@ -49,13 +55,19 @@ const Projects = () => {
               Search for and buy plants online
             </p>
             <div style={{ display: "flex", gap: "20px" }}>
-            <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
+              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
                 <a href="https://plant-central.netlify.app/" target="_blank">
                   View
                 </a>
               </button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">About</button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">Code</button>
+              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
+                About
+              </button>
+              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
+              <a href="https://github.com/JaricW/Plant-Central" target="_blank">
+                  Code
+                </a>
+              </button>
             </div>
           </div>
         </div>
@@ -75,13 +87,19 @@ const Projects = () => {
               ideas for what to eat
             </p>
             <div style={{ display: "flex", gap: "20px" }}>
-            <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
+              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
                 <a href="https://dinnerpicker.netlify.app/" target="_blank">
                   View
                 </a>
               </button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">About</button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">Code</button>
+              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
+                About
+              </button>
+              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
+              <a href="https://github.com/JaricW/whatsfordinner" target="_blank">
+                  Code
+                </a>
+              </button>
             </div>
           </div>
         </div>
