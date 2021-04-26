@@ -11,6 +11,7 @@ module.exports = {
       },
       animation: {
         fadeIn: 'fadeIn 2s linear',
+        fadeInFast: 'fadeIn 1s linear',
        }
     },
   },
