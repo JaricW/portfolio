@@ -43,7 +43,7 @@ const About = () => {
               <h2 className="p-2 text-2xl">About Me</h2>
               <p>
                 I've been working in marketing for the last 7 years, and have
-                spent the last 3 heavily involved in Web Design and the User
+                spent the last 3 heavily involved in internal Web Development and the User
                 Experience. I started learning to code at the beginning of 2020,
                 and have since completed several online courses, most recently
                 <a 
