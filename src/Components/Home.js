@@ -4,7 +4,7 @@ import Almscliffe from "../Images/Almscliffe.jpg";
 const Home = (props) => {
   return (
     <main className="w-full h-screen flex">
-      <div className="flex flex-col sm:justify-center items-center mt-36 sm:mt-0 w-full sm:w-6/12 text-left z-20 text-gray-200 animate-fadeIn">
+      <div className="flex flex-col sm:justify-center items-center mt-36 sm:mt-0 w-full sm:w-6/12 text-left z-20 text-gray-100 animate-fadeIn">
         <h1 className="text-3xl p-2 ">Hi, I'm Jaric</h1>
         <h2 className="text-2xl p-2">Welcome to my website</h2>
 
@@ -21,7 +21,7 @@ const Home = (props) => {
         className="z-0 absolute object-cover sm:right-0 sm:w-6/12 h-screen w-full animate-fadeIn"
         alt="Myself bouldering at Almscliffe"
       />
-      <div className="z-10 absolute w-full h-screen bg-black bg-opacity-80 sm:bg-gradient-to-r from-black via-black to-transparent sm:bg-opacity-20" />
+      <div className="z-10 absolute w-full h-screen bg-black bg-opacity-60 sm:bg-gradient-to-r from-black via-black to-transparent sm:bg-opacity-20" />
     </main>
   );
 };
