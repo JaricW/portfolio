@@ -12,7 +12,7 @@ const Home = (props) => {
           onClick={props.goProjects}
           className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-50 border-2 border-current border-solid rounded-md m-1 h-12 w-60 p-2"
         >
-          Projects
+          <h3>Projects</h3>
         </button>
       </div>
 
@@ -21,7 +21,7 @@ const Home = (props) => {
         className="z-0 absolute object-cover sm:right-0 sm:w-6/12 h-screen w-full animate-fadeIn"
         alt="Myself bouldering at Almscliffe"
       />
-      <div className="z-10 absolute w-full h-screen bg-black bg-opacity-60 sm:bg-gradient-to-r from-black via-black to-transparent sm:bg-opacity-20" />
+      <div className="z-10 absolute w-full h-screen bg-black bg-opacity-80 sm:bg-gradient-to-r from-black via-black to-transparent sm:bg-opacity-20" />
     </main>
   );
 };
