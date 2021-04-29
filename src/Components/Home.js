@@ -14,6 +14,10 @@ const Home = (props) => {
         >
           <h3>Projects</h3>
         </button>
+        <div className="absolute bottom-6 flex gap-x-8">
+          <a href="https://github.com/JaricW" target="_blank"><i class="fab fa-github text-2xl"></i></a>
+          <a href="https://www.linkedin.com/in/jaric-woodhead/" target="_blank"><i class="fab fa-linkedin-in text-2xl"></i></a>
+        </div>
       </div>
 
       <img
