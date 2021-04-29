@@ -31,9 +31,6 @@ const Projects = () => {
                 </a>
               </button>
               <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
-                About
-              </button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
                 <a href="https://github.com/JaricW/The-Boulder" target="_blank">
                   Code
                 </a>
@@ -59,9 +56,6 @@ const Projects = () => {
                 <a href="https://plant-central.netlify.app/" target="_blank">
                   View
                 </a>
-              </button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
-                About
               </button>
               <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
               <a href="https://github.com/JaricW/Plant-Central" target="_blank">
@@ -91,9 +85,6 @@ const Projects = () => {
                 <a href="https://dinnerpicker.netlify.app/" target="_blank">
                   View
                 </a>
-              </button>
-              <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
-                About
               </button>
               <button className="cursor-pointer text-yellow-700 bg-gray-900 bg-opacity-0 hover:bg-opacity-10 border-2 border-current border-solid rounded-md p-2">
               <a href="https://github.com/JaricW/whatsfordinner" target="_blank">
